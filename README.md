@@ -1,6 +1,6 @@
 # Hi There, I'm Filipe Rodrigues 👋
 ## 💻 Most used Languages
-<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=curvu&layout=compact&langs_count=7&theme=dracula&hide=css,html"/>
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=curvu&layout=compact&langs_count=7&theme=dracula&hide=css,html,makefile"/>
 
 ## 📈 GitHub Stats
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=curvu&theme=dracula&hide_border=true" width = 400>
