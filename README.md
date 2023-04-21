@@ -11,7 +11,7 @@
 - Email: curvu6@gmail.com
 - Linkedin: https://www.linkedin.com/in/curvu/
 - Discord: Curvu#0254
-- Curriculum Vitae: [click me](./imgs/curriculum_vitae.pdf)
+- Curriculum Vitae: https://curvu.github.io/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curvu/curvu/output/github-contribution-grid-snake-dark.svg">
