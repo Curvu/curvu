@@ -10,7 +10,7 @@
 ## 📬 How to reach me
 - Email: curvu6@gmail.com
 - Linkedin: https://www.linkedin.com/in/curvu/
-- Discord: Curvu#0254
+- Discord: @curvu
 - Curriculum Vitae: https://curvu.github.io/
 
 <picture>
